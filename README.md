@@ -1,2 +1,2 @@
 # KickStarter-Campaign
-Etereum based web application for Startup funding
+Ethereum based web application for Startup funding
