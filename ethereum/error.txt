@@ -1,0 +1,9 @@
+error:
+  uncaught (in promise) Error: No "from" address specified in neither the given options, nor the default options.
+solution:
+  in web3.js above new Web3(window.web3.currentProvider) add line window.web3.currentProvider.enable();
+
+error:
+  invalid JSON RPC response :""
+solution:
+  internet problem :)
